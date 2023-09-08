@@ -1,0 +1,4 @@
+package Week11MapCollectionsAndIntrotoClassesAndObjectsInJava.Class11point10PutAllMethod;
+
+public class CombinedCheckpt2 {
+}

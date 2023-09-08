@@ -1,0 +1,4 @@
+package Week6UserDefindMethodsAndStringMethods.Class6point1.Class6point18StringEqualsAndEqualsIgnoreCase;
+
+public class Video {
+}

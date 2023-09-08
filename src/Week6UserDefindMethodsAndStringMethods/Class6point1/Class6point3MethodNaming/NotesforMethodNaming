@@ -1,0 +1,13 @@
+Here are 5 examples of good method naming conventions in Java with no parameters:
+
+displayWelcomeMessage() - clearly indicates that this method displays a welcome message.
+
+resetCounter() - clearly indicates that this method resets a counter variable.
+
+clearCache() - clearly indicates that this method clears a cache.
+
+showMenu() - clearly indicates that this method displays a menu.
+
+loadSettings() - clearly indicates that this method loads settings.
+
+Hit that submit button to move on to the next lectures

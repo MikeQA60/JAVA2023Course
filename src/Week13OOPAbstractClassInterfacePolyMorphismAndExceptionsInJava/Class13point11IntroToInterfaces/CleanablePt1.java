@@ -1,0 +1,4 @@
+package Week13OOPAbstractClassInterfacePolyMorphismAndExceptionsInJava.Class13point11IntroToInterfaces;
+
+public class CleanablePt1 {
+}
